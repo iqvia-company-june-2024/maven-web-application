@@ -144,7 +144,7 @@
 					<wtpversion>2.0</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
-                                  <url>http://13.233.71.85:9980/manager/text</url>
+                                  <url>http://13.233.71.85:9980</url>
                                   <username>tomcat</username>
                                   <password>devops</password>
                                 </configuration>
